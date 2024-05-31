@@ -1,0 +1,50 @@
+h1 {
+    background-color: aquamarine;
+    border-radius: 50px;
+    border: solid 2px red;
+    text-align: center;
+}
+.aa{
+    text-align: center;
+    background-color: black;
+    border-radius: 5px;
+}
+.dd{
+   color: green; 
+}
+input{
+    padding: 10px;
+    width: 1425px;
+   border-radius: 5px; 
+}
+.qq{
+    color: green;
+}
+.ss{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+table, tr, th, td{
+    border: 2px solid blue;
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 35px;
+    color: white;
+    font-size: 20px;
+}
+table{
+    width: 1450px;
+}
+.hh{
+    background-color: red;
+}
+.ww{
+    background-color: green;
+}
+.qu{
+    background-color: blue;
+}
+.pp{
+    background-color: black;
+}
